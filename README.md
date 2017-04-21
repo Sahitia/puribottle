@@ -1,7 +1,6 @@
 # puribottle
 21.04.17
 void setup() {
-  // put your setup code here, to run once:
   // Date and time functions using a DS1307 RTC connected via I2C and Wire lib
 #include <Time.h>
 #include <TimeLib.h>
